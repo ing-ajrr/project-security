@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "json-server",
+      "last_name": "typicode"
+    },
+    {
+      "id": 2,
+      "name": "Anthony",
+      "last_name": "Rangel",
+      "email": "anthony.15988@gmail.com",
+      "password": "1234",
+      "password_confirm": "1234",
+      "rut": "258632761"
+    },
+    {
+      "id": 3,
+      "name": "Rosmara",
+      "last_name": "Martinez",
+      "email": "rosanmarr@gmail.com",
+      "password": "1234",
+      "password_confirm": "1234",
+      "show": false,
+      "rut": "258632621"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
